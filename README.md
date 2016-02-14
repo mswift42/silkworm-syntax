@@ -2,6 +2,8 @@
 
 a Light Syntax Theme with beautiful low contrast colors.
 
+Created with [ThemeCreator](http://mswift42.github.io/themecreator/).
+
 ## Screenshots
 
 Python / Ruby:
