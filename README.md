@@ -1,5 +1,14 @@
 # silkworm-syntax theme
 
-A short description of your theme.
+a Light Syntax Theme with beautiful low contrast colors.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+## Screenshots
+
+Python / Ruby:
+![Screenshot](https://github.com/mswift42/silkworm-syntax/raw/master/silkworm-atom-python-ruby.png)
+
+Javascript / Clojure:
+![Screenshot](https://github.com/mswift42/silkworm-syntax/raw/master/silkworm-atom-jsclojur.png)
+
+
+
