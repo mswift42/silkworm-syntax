@@ -1,7 +1,7 @@
 {
   "name": "silkworm-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Light Atom Syntax Theme with beautiful low contrast colors.",
   "keywords": [
     "syntax",
